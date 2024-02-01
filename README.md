@@ -9,7 +9,7 @@ Standard Template Library (STL)
 ## Installation
 
 1 - Clone the repository to your local machine:
-git clone https://github.com/your-username/cpp-toolbox.git
+git clone https://github.com/EstevanFonseca/cpp-toolbox.git
 
 2 - Navigate to the project directory:
 cd cpp-toolbox
@@ -36,4 +36,5 @@ Option 5: Invert a given string.
 Option 0: Exit.
 
 3 - Follow the prompts to input values or strings as needed.
+
 4 - Repeat the process until you choose to exit the program.
