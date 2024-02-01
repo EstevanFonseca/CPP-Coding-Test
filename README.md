@@ -23,12 +23,12 @@ g++ -o toolbox main.cpp
 
 2 - Choose an option from the menu:
 
-Option 1: Determine whether a given number is prime.
-Option 2: Determine whether a given number is a palindrome.
-Option 3: Get the sum of values at prime or palindromic indices in an array.
-Option 4: Get a decreasing list of prime numbers in a range.
-Option 5: Invert a given string.
-Option 0: Exit.
+1. Determine whether a given number is prime.
+2. Determine whether a given number is a palindrome.
+3. Get the sum of values at prime or palindromic indices in an array.
+4. Get a decreasing list of prime numbers in a range.
+5. Invert a given string.
+0. Exit.
 
 3 - Follow the prompts to input values or strings as needed.
 4 - Repeat the process until you choose to exit the program.
